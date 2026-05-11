@@ -1,3 +1,4 @@
 # rpi book scan database idea study
 
-<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/ce997998-5580-41c5-ae79-d432f0d357d8" />
+<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/7ab558d9-771a-4ed8-a9eb-bcadbb7c530e" />
+
